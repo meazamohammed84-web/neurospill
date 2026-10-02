@@ -1,0 +1,6 @@
+{
+  "name": "NeuroSpill: Teen Brain & Psychology Decoder",
+  "description": "Engaging, relatable developmental psychology and brain chemistry for teens and preteens—decoding why you think, feel, and react the way you do.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
